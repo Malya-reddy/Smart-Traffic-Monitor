@@ -1,0 +1,5 @@
+vehicle_id,timestamp,method,message,sent_to
+UNKNOWN_9,2025-10-18 14:29:08,SIMULATED_SMS,NOTICE: Your vehicle UNKNOWN_9 was detected violating a red light on 2025-10-18 14:29:08. Penalty: ₹500. See evidence: violations\vehicle_9_1760777948.jpg,+0000000000
+UNKNOWN_9,2025-10-18 15:18:33,SIMULATED_SMS,NOTICE: Your vehicle UNKNOWN_9 was detected violating a red light on 2025-10-18 15:18:33. Penalty: ₹500. See evidence: violations\vehicle_9_1760780913.jpg,+0000000000
+UNKNOWN_9,2025-10-18 15:26:35,SIMULATED_SMS,NOTICE: Your vehicle UNKNOWN_9 was detected violating a red light on 2025-10-18 15:26:35. Penalty: ₹500. See evidence: violations\vehicle_9_1760781395.jpg,+0000000000
+UNKNOWN_9,2025-10-23 07:56:51,SIMULATED_SMS,NOTICE: Your vehicle UNKNOWN_9 was detected violating a red light on 2025-10-23 07:56:51. Penalty: ₹500. See evidence: violations\vehicle_9_1761186411.jpg,+0000000000
